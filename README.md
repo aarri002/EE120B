@@ -2,7 +2,7 @@
 Files for Personal Project UCR Introduction To Embedded Systems 120B Spring 2015
 This repository is for all the files in my Personal Project.
 
-Student: Alberto Arriaga Felix
+Student: Alberto Felix
 
 Major: Electrical Engineering
 
